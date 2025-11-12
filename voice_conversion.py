@@ -10,7 +10,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from matplotlib.figure import Figure
 
 # ✅ Hugging Face API Key
-API_KEY = "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"
+API_KEY = ""
 
 # Globals
 is_recording = False
